@@ -1,1 +1,1 @@
-Tic Tac Toe using just core Java
+Tic Tac Toe game using only core Java
